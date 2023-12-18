@@ -10,7 +10,6 @@ This repository contains a simple pickup line generator web app. Users can click
 
 - Random pickup line generation
 - Display of user information and timestamp
-- Responsive design for mobile viewing
 
 ## Usage
 
